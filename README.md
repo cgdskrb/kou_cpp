@@ -1,4 +1,4 @@
-# kou\_cpp
+# kou\_cpp TR
 Kocaeli Üniversitesi Temel Bilgisayar Bilimleri dersi için hazırladığım basit C++ örnekleri.
 
 ## İçindekiler
